@@ -4,10 +4,7 @@
  * Descrição:
  * Este projeto tem como objetivo se aprofundar nos conhecimentos em HTML e CSS. Ele foi desenvolvido utilizando HTML E CSS, como forma de avaliação de conclusão de atividade avaliativa do curso DNC.
  * 
- * Funcionalidades Principais:
- * - [Mobile First]: Foi adotada uma abordagem de mobile firts para esse projeto.
- * - [Responsividade]: Responsivo em diversos dispositivos.
- * 
+ 
  * Estrutura do Projeto:
 * **Estrutura do Projeto:**
     - `/assets`: Imagens, ícones e outros arquivos estáticos.
@@ -15,13 +12,9 @@
     - `/js`: Scripts JavaScript (se aplicável).
     - `/index.html`: Página principal do projeto.
     - `/README.md`: Documentação do projeto.
- * 
- * Requisitos:
- * - Abrenge suporte de 100% dos navegadores atuais, e compativel com modelos mais antigos.
- * 
- * 
+
  * Autor(es):
- * - Wesley Santos
+ * - Luiz Pedrão
  * 
- * Última atualização: [07/09/2025 - 07:37]
+ * Última atualização: [14/01/2026 - 12:36]
  */
