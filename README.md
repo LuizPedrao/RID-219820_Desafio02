@@ -1,6 +1,8 @@
 /**
  * Projeto: [The Dev News]
- * 
+
+*Link Site: https://rid-219820desafio02.netlify.app/
+
  * Descrição:
  * Este projeto tem como objetivo se aprofundar nos conhecimentos em HTML e CSS. Ele foi desenvolvido utilizando HTML E CSS, como forma de avaliação de conclusão de atividade avaliativa do curso DNC.
  * 
